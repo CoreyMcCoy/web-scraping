@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper-2",
+  "version": "1.0.0",
+  "description": "web scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Corey McCoy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "puppeteer": "^13.6.0"
+  }
+}
